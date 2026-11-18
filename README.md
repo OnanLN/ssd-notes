@@ -2,7 +2,7 @@
 
 《深入浅出 SSD 测试》+《深入浅出 SSD（第二版）》两本书的精读笔记，压成一页可检索的作战地图。
 
-**在线看**：https://<你的用户名>.github.io/ssd-notes/
+**在线看**：https://onanln.github.io/ssd-notes/
 
 ## 内容
 
